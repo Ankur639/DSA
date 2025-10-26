@@ -1,6 +1,6 @@
 let arr = [20, 17, 15, 14, 13, 12, 10, 9, 8, 4, 2];
 
-let target = 2;
+let target = 2222;
 
 function binarySearch(arr, target) {
   let low = 0;
